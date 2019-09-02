@@ -1,0 +1,5 @@
+-Dodani razmaci izmedju elemenata u tagovima,pa se sada dokument da ponovo parsirat.
+
+-U 2. i u 3.zadatku lekser vise ne mijenja sam sebi stanje(u 3. je to dodano u parser).
+
+-U parser dodana provjera je li stack.size na kraju jednak 1.
